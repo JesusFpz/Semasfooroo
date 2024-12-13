@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.borders{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+}
+
+.bg-rojo-brillante {
+    background-color: #ff0000; /* Rojo brillante */
+  }
+
+  .bg-amarillo-brillante {
+    background:#fcfc00 ; /* Amarillo brillante */
+  }
+  .bg-verder-brillante {
+    background:#00ff51 ; /* Amarillo brillante */
+  }
